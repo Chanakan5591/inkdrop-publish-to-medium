@@ -10,6 +10,7 @@
     "inkdrop": "^5.3.1"
   },
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "inkdrop-export-utils": "^3.2.7"
   }
 }
