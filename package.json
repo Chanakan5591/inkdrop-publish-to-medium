@@ -1,7 +1,7 @@
 {
   "name": "publish-to-medium",
   "main": "./lib/publish-to-medium",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A plugin to help you publish your blogs written in Inkdrop onto Medium",
   "keywords": [],
   "repository": "https://github.com/chanakan55991/inkdrop-publish-to-medium",
