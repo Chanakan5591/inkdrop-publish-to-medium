@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Publish To Medium",
+          "submenu": [
+            {
+              "label": "Publish Current Note",
+              "command": "publish-to-medium:publish"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
